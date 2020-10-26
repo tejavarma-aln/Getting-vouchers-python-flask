@@ -3,7 +3,7 @@ Get vouchers from tally (Sales, Purchase, Receipt, Payment)  using python and fl
 
 # Requirements
 
-Main entry - Ledger Statement.py
+Main entry - main.py
 
 Python version - 3.8.5
 
